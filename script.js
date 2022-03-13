@@ -18,13 +18,11 @@ var area = PI * radius*radius
 console.log("Area of circle = "+ area)
 
 //Circumference of circle - Using VAR
-
 var radius=4.5
 var circum = 2 * PI * radius
 console.log("Circumference of circle = "+ circum)
 
 //Radius of circle - Using VAR
-
 var circum=26.798
 var radius = circum/2 * PI
 console.log("Radius of circle = "+ radius)
@@ -38,12 +36,10 @@ let area_ = pi * r*r
 console.log("Area of circle = "+ area_)
 
 //Circumference of circle - Using LET
-
 let circum_ = 2 * pi * r
 console.log("Circumference of circle = "+ circum_)
 
 //Radius of circle  - Using LET
-
 let circumference =6.798
 let rad = circumference/2 * pi
 console.log("Radius of circle = "+ rad)
@@ -57,13 +53,11 @@ const AREA= PI * radius*radius
 console.log("Area of circle = "+ AREA)
 
 //Circumference of circle - Using CONST
-
 var radius=1.5
 const CIRCUM = 2 * PI * radius
 console.log("Circumference of circle = "+ CIRCUM)
 
 //Radius of circle  - Using CONST
-
 var circum=28
 const RADIUS = circum/2 * PI
 console.log("Radius of circle = "+ RADIUS)
